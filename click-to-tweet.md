@@ -1,6 +1,6 @@
 # Click to Tweet for Ghost (ver. 0.1 2021-06-19)
 
-![alt text](/click-to-tweet-for-ghost.png "Title")
+![alt text](/images/click-to-tweet-for-ghost_preview.png "Click to Tweet for Ghost - Preview")
 
 ### Code iniection
 Aggiungere in **Code iniection/Site Header**
@@ -40,5 +40,8 @@ if (quotes.length) {
 
 **NB: Ricordati di sostituire il testo "Inserisci il testo che preferisci..." con quello che preferisci.**
 
-### Esempio di utilizzo
+## Esempio di utilizzo
 Vedi [questo post](https://www.bertagna.it/creare-portfolio-fotografico/) che ho scritto sul mio Blog
+
+Questa immagine è estratta dal blog:
+![alt text](/images/click-to-tweet-for-ghost.png "Esempio di utilizzo - Click to Tweet for Ghost")
