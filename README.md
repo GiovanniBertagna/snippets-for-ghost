@@ -1,2 +1,4 @@
-# click-to-twitter-for-ghost
-Click to Twitter for Ghost
+# Snipperts fot Ghost
+***Collection of code snippets for Ghost***
+
+
