@@ -1,9 +1,11 @@
-# Click to Tweet for Ghost (ver. 0.1 2021-06-19)
+# Click to Tweet for Ghost (ver. 0.1 2021-06-19) by [Giovanni Bertagna](https://www.bertagna.it)
 
 ![alt text](/images/click-to-tweet-for-ghost_preview.png "Click to Tweet for Ghost - Preview")
 
-### Code iniection
+## Code iniection
+
 Aggiungere in **Code iniection/Site Header**
+
 ~~~
 div.notice-tweet {
 	background-color:#f8f8f8;
@@ -13,17 +15,20 @@ div.notice-tweet {
 ~~~
 
 Aggiungere in **Code iniection/Site Footer**
+
 ~~~
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 ~~~
 
-### Card HTML
+## Card HTML
+
 Aggiungere al post, oppure alla pagina, una card HTML tramite il pulsante <code>+</code> e inserire il seguente codice:
+
 ~~~
 <div class="notice-tweet" style="margin:50px 25px 50px 25px; padding:15px 10px 15px 10px; text-align:center;">
   <i class="fa fa-twitter-square fa-2x" style="color:#1DA1F2;"> </i>
-    <div class="block-group__inner-container" style="margin:0px; padding:5px 10px 0px 5px; text-align:center;">
+    <div class="block-group__inner-container" style="margin:0px; padding:5px 10px 10px 5px; text-align:center;">
       <h10 style="color:#444; font-size:24px; font-weight:400;">Inserisci il testo che preferisci...</h10>
     </div>
 </div>
@@ -41,7 +46,11 @@ if (quotes.length) {
 **NB: Ricordati di sostituire il testo "Inserisci il testo che preferisci..." con quello che preferisci.**
 
 ## Esempio di utilizzo
+
 Vedi [questo post](https://www.bertagna.it/creare-portfolio-fotografico/) che ho scritto sul mio Blog
 
 Questa immagine è estratta dal blog:
 ![alt text](/images/click-to-tweet-for-ghost.png "Esempio di utilizzo - Click to Tweet for Ghost")
+
+---
+### Vedi altri [snippets per Ghost](./README.md)
