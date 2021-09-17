@@ -1,7 +1,7 @@
 # Raccolta di Snippets tratti dal [Forum di Ghost](https://forum.ghost.org/)
 
 ## INDICE
-1. Nascondi il link a Ghost nel footer;
+1. Nascondi il link a Ghost nel footer; 
 
 ---
 
