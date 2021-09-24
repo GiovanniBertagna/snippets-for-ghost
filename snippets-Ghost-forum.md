@@ -45,3 +45,13 @@ systemThemeMatch.addEventListener('change', handleColorSchemePreferenceChange);
 handleColorSchemePreferenceChange(systemThemeMatch);
 </script>
 ~~~
+
+## Nascondere dalla home page gli articoli con determinato TAG
+Codice da inserire in **Settings > Code injection > Site header** - Tratto dal post: [Ghost Pro - How do you hide articles from code injection?](https://forum.ghost.org/t/ghost-pro-how-do-you-hide-articles-from-code-injection/25720)
+~~~
+<style>
+.post-card.tag-getting-started {
+    display: none;
+}
+</style>
+~~~
