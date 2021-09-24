@@ -1,16 +1,19 @@
 # Snipperts for Ghost
-## Collezione di snippets per aggiungere card o personalizzazioni a [Ghost](https://ghost.org/).
-Questi sono gli snippets che utilizzo per il [Blog](https://www.bertagna.it/) 
+
+## Collezione di codice per aggiungere card o personalizzazioni a [Ghost](https://ghost.org/)
+
+Questi sono gli snippets che utilizzo per il [Blog | Fotografia e Tecnologia](https://www.bertagna.it/) e altri che ho raccolto.
 
 ## Indice
-1. Click to Tweet for Ghost
-2. 
 
-## Click to Tweet for Ghost
-Aggiunge la possibilità di inserire un testo da condividere su Twitter con il link del post o pagina.
+1. Click to Tweet for Ghost;
 
-**Vai alle istruzioni: [Come inserire il codice in Ghost](./click-to-tweet.md)**
+2. Raccolta di codice dal Forum Supporto di Ghost;
+   1. Nascondi il link a Ghost nel footer;
+   2. Nascondi il link a Ghost nel footer, CTA Membership e icone social in head;
+   3. Tema Casper - Applica il tema scuro se impostato nel browser;
+   4. Nascondere dalla home page gli articoli con un determinato #tag;
 
-![alt text](/images/click-to-tweet-for-ghost_preview.png "Click to Tweet for Ghost - Preview")
+---
 
-*Esempio tratto da un [articolo](https://www.bertagna.it/creare-portfolio-fotografico/) pubblicato su [www.bertagna.it](https://www.bertagna.it/)*
+Se hai suggerimenti o altro contattami su [Twitter](https://twitter.com/AlfredoBertagna).
